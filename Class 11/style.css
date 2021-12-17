@@ -1,0 +1,13 @@
+.box{
+    border: solid blue 3px;
+   width: 200px;
+   height: 200px;
+   background-color:red;
+   text-align: center;
+}
+
+.first{
+    margin-left: 350px;
+}
+
+

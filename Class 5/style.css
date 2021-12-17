@@ -1,0 +1,35 @@
+h2{
+   color: red;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+
+span{
+    font-size: 15px;
+    font-weight: 20;
+}
+
+.PRG1{
+   background-color: purple; 
+   color: white     ;
+}
+
+
+.PRG1 h2{
+    color: white;
+    
+}
+.PRG{
+    font-size: 20px;
+    text-align: center;
+}
+.PRG2{
+    background-color: turquoise;
+    color: white;
+}
+.PRG2 h2{
+    color: yellow;
+}
